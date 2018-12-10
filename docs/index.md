@@ -12,4 +12,5 @@ un elenco:
 | 10  | 20  |
 | 21  | 30  |
 
-![image](img/Assassin_Creed_Odyssey.jpg)
+![GitHub image](img/github_image_2.jpg)
+
