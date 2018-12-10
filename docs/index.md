@@ -13,5 +13,3 @@ un elenco:
 | 21  | 30  |
 
 ![GitHub image](img/github_image.jpg)
-
-[link al mio sito](https://matteocosimi.com)
