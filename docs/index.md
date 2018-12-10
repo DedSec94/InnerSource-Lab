@@ -12,4 +12,4 @@ un elenco:
 | 10  | 20  |
 | 21  | 30  |
 
-![GitHub image](img/github_image.jpg)
+![GitHub image](img/Assassin_Creed_Odyssey.jpg)
